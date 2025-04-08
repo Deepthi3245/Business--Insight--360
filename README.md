@@ -22,16 +22,16 @@
 Checkout the live dashboard here 👉🏻 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTQyODU5OGMtMGQ1My00OTkyLTk0ZTItN2I2MDZiMDY1Yjg3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
   
 ## Tools & Technique:
-###Data Analysis:
+### Data Analysis:
 Microsoft Excel (2021)
 Power BI Desktop (July 2024)
 Power BI Service, Power Query
 Data Modeling, DAX, ETL, DAX Studio
 
-###Database:
+#### Database:
 SQL, MySQL, MySQL Workbench
 
-###Project Documentation:
+#### Project Documentation:
 Git & GitHub, VS Code Editor
 
 ## Problem Statement:
@@ -44,26 +44,36 @@ The project aims to enhance transparency and enable data-driven decision-making 
 ## Business Model:
 
 AtliQ manufactures computer hardware and distributes its products through various channels:
+<p align="center">
+<img src="https://github.com/Deepthi3245/Business--Insight--360/blob/d10c0f170d5b5428d4ff418140eded3602cf4a27/Projects%20Views/ATLIQ.png" >
+</p>
 
-###Retail: Third-party stores (e.g., Croma, Amazon).
-###Direct: AtliQ-owned stores (e.g., AtliQ e-store).
-###Distributor: Agencies handling international distribution (e.g., Neptune in countries with import restrictions).
+#### Retail: Third-party stores (e.g., Croma, Amazon).
+#### Direct: AtliQ-owned stores (e.g., AtliQ e-store).
+#### Distributor: Agencies handling international distribution (e.g., Neptune in countries with import restrictions).
 
-
+AtliQ manufactures computer hardware and distributes its products through various channels:
+<p align="center">
+<img src="https://github.com/Deepthi3245/Business--Insight--360/blob/d10c0f170d5b5428d4ff418140eded3602cf4a27/Projects%20Views/ATLIQ.png" >
+</p>
 
 The stores AtliQ sells to are categorized as:
-###Brick & Mortar: Physical stores (e.g., Croma).
-###E-Commerce: Online platforms (e.g., Amazon, Flipkart).
+#### Brick & Mortar: Physical stores (e.g., Croma).
+#### E-Commerce: Online platforms (e.g., Amazon, Flipkart).
 ## Feature Requests:
 
 
 ## Data Source:
 The data sources include:
 Internal AtliQ Database: Contains both fact and dimension tables for sales, inventory, and financial data.
+
 External Data: Additional .xlsx/.csv files for benchmark and market share data. The fiscal year for AtliQ starts in September, with data spanning from FY 2018 to FY 2022. Sales data is available through December 2021.
 
 ## Data Modeling
 The data model used follows a hybrid structure, combining Star and Snowflake schemas, with fact tables at the center connected to various dimension tables
+<p align="center">
+<img src="https://github.com/Deepthi3245/Business--Insight--360/blob/d10c0f170d5b5428d4ff418140eded3602cf4a27/Data%20Modeling/Data%20modeling%20gif.mp4" >
+</p>
 
 
 ## Key Metrics:
@@ -80,7 +90,48 @@ Net Error
 Revenue Contribution (RC %)
 
 ## Dashboard Overview:
-###Finance Page: Displays P&L statements for customers, products, countries, and other aggregations over specified periods.
+<p align="center"> Home Page </p>
+<p align="center">
+  <img src="https://github.com/Deepthi3245/Business--Insight--360/blob/d10c0f170d5b5428d4ff418140eded3602cf4a27/Projects%20Views/Home.png">
+</p>
+
+<p align="center"> <strong>Finance Page </strong></p>
+<p align="center"> Get P & L statement for any customer / product / country or aggregation of the above over any time period and More. </p>
+
+<p align="center">
+  <img src="https://github.com/Deepthi3245/Business--Insight--360/blob/d10c0f170d5b5428d4ff418140eded3602cf4a27/Projects%20Views/Finance.png">
+</p>
+
+<p align="center"><strong> Sales Page </strong></p>
+<p align="center"> Analyze the performance of customer(s) over key metrics like Net Sales, Gross Margin and view the same in profitability / Growth matrix. </p>
+
+<p align="center">
+  <img src="https://github.com/Deepthi3245/Business--Insight--360/blob/d10c0f170d5b5428d4ff418140eded3602cf4a27/Projects%20Views/Sales.png">
+</p>
+
+<p align="center"><strong> Marketing </strong></p>
+<p align="center"> Analyze the performance of product(s) over key metrics like Net Sales, Gross Margin and view the same in profitability / Growth matrix. </p>
+
+<p align="center">
+  <img src="https://github.com/Deepthi3245/Business--Insight--360/blob/d10c0f170d5b5428d4ff418140eded3602cf4a27/Projects%20Views/Marketing.png">
+</p>
+
+<p align="center"><strong> Supply Chain Page </strong></p>
+<p align="center"> Get Forecast Accuracy, Net Error and risk profile for product, segment, category, customer etc
+A top level dashboard for executives consolidating top insights from all dimensions of business </p>
+
+<p align="center">
+  <img src="https://github.com/Deepthi3245/Business--Insight--360/blob/d10c0f170d5b5428d4ff418140eded3602cf4a27/Projects%20Views/Supply%20chain.png">
+</p>
+
+<p align="center"><strong> Executive Page </strong></p>
+<p align="center"> A top level dashboard for executives consolidating top insights from all dimensions of business.
+ </p>
+
+<p align="center">
+  <img src="https://github.com/Deepthi3245/Business--Insight--360/blob/d10c0f170d5b5428d4ff418140eded3602cf4a27/Projects%20Views/Executive.png">
+</p>
+
 
 
 

@@ -54,7 +54,7 @@ AtliQ manufactures computer hardware and distributes its products through variou
 
 AtliQ manufactures computer hardware and distributes its products through various channels:
 <p align="center">
-<img src="https://github.com/Deepthi3245/Business--Insight--360/blob/d10c0f170d5b5428d4ff418140eded3602cf4a27/Projects%20Views/ATLIQ.png" >
+<img src="https://github.com/Deepthi3245/Business--Insight--360/blob/d10c0f170d5b5428d4ff418140eded3602cf4a27/Projects%20Views/ATLIQ%202.png" >
 </p>
 
 The stores AtliQ sells to are categorized as:
@@ -66,7 +66,13 @@ The stores AtliQ sells to are categorized as:
 ## Data Source:
 The data sources include:
 Internal AtliQ Database: Contains both fact and dimension tables for sales, inventory, and financial data.
+<p align="center">
+<img src="https://github.com/Deepthi3245/Business--Insight--360/blob/3f25349aa2c18342a8473e8fbfa24c95a4029c69/Database-Structure/database%201.png" >
+</p>
 
+<p align="center">
+<img src="https://github.com/Deepthi3245/Business--Insight--360/blob/3f25349aa2c18342a8473e8fbfa24c95a4029c69/Database-Structure/database%202.png" >
+</p>
 External Data: Additional .xlsx/.csv files for benchmark and market share data. The fiscal year for AtliQ starts in September, with data spanning from FY 2018 to FY 2022. Sales data is available through December 2021.
 
 ## Data Modeling
